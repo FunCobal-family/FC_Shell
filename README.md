@@ -13,3 +13,7 @@
       - Aero FanCobal Shell : acosh
       - Distributed FanCobal Shell : dcosh
         - Remote FanCobal Shell : rcosh
+  - (Fancob)
+    - Fancob Build Shell : bcosh
+    - (Fanco)
+      - Fanco Command Shell : ccosh
